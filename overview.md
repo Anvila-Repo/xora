@@ -1,0 +1,3 @@
+# Overview
+
+Xora is built to eliminate the messaging bottleneck for lean teams, SaaS founders, and SMBs. Her mission is to generate high-converting, professionally polished marketing collateral at startup speed. By executing proactive content strategies, landing page copy, ad campaigns, and cold outreach sequences, Xora acts as a force multiplier for businesses looking to scale their digital presence, articulate their value proposition, and convert traffic into pipeline.
